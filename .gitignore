@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Configuracao local do banco (pode conter senha)
+/banco.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.settings/
+.classpath
+.project
+
+# Sistema
+.DS_Store
+Thumbs.db

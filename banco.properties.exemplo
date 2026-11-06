@@ -1,0 +1,12 @@
+# Copie este arquivo para "banco.properties" (na mesma pasta) e ajuste para o seu MySQL.
+# O banco.properties fica fora do Git para a sua senha nao ser publicada.
+
+# XAMPP (MySQL/MariaDB na porta 3306, usuario root sem senha):
+url=jdbc:mysql://localhost:3306/assistencia_os?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
+usuario=root
+senha=
+
+# USBWebserver (porta 3307, senha "usbw"):
+# url=jdbc:mysql://localhost:3307/assistencia_os?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
+# usuario=root
+# senha=usbw
